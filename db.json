@@ -1,0 +1,168 @@
+{
+  "seller": [
+    {
+      "name": "Amartya",
+      "email": "amartya123@gmail.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "Janhvi",
+      "email": "janhvi123@gmail.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "kishan",
+      "password": "abc@123",
+      "email": "kishan@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@test.com",
+      "id": 4
+    },
+    {
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@test.com",
+      "id": 5
+    },
+    {
+      "name": "vikash",
+      "password": "abc@123",
+      "email": "vikash@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "alena",
+      "password": "abc@123",
+      "email": "alena@g.com",
+      "id": 7
+    },
+    {
+      "name": "xyz",
+      "password": "abc@123",
+      "email": "xyz@g.com",
+      "id": 8
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 9
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 10
+    }
+  ],
+  "product": [
+    {
+      "productName": "Lamborghini Aventador",
+      "productPrice": "5.2 ",
+      "productId": "FT45",
+      "productType": "Car",
+      "productColor": "Green",
+      "productDes": "Best Car",
+      "productImage": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/augmented-reality/aventador/svj/11_17/ar_aventador_svj_m.png",
+      "id": 6
+    },
+    {
+      "productName": "Flower Pot",
+      "productPrice": "4300",
+      "productId": "FJD",
+      "productType": "Flower Pot",
+      "productColor": "Brown",
+      "productDes": "Nice",
+      "productImage": "https://www.kaykon.in/wp-content/uploads/2020/02/Red-White-pot.jpg",
+      "id": 7
+    },
+    {
+      "productName": "Ring",
+      "productPrice": "3000",
+      "productId": "HTY",
+      "productType": "Hand Ring",
+      "productColor": "Grey",
+      "productDes": "Best Ring For Girlfriend",
+      "productImage": "https://m.media-amazon.com/images/I/51eAT4eA+1L._UY500_.jpg",
+      "id": 8
+    },
+    {
+      "productName": "Froke For Girl",
+      "productPrice": "2300",
+      "productId": "YTR",
+      "productType": "Frok",
+      "productColor": "Pink",
+      "productDes": "Nice frok",
+      "productImage": "https://assets.ajio.com/medias/sys_master/root/20220617/4ASV/62ac820eaeb26921af36258b/-473Wx593H-464497062-pink-MODEL.jpg",
+      "id": 9
+    },
+    {
+      "productName": "Name Pendant",
+      "productPrice": "500",
+      "productId": "ERT",
+      "productType": "Pendant",
+      "productColor": "Golden",
+      "productDes": "Name locket",
+      "productImage": "https://cdn.shopify.com/s/files/1/0519/6303/5797/products/IMG_20200205_001857_294_687x.jpg?v=1615873738",
+      "id": 10
+    },
+    {
+      "productName": "car",
+      "productPrice": "5000",
+      "productId": "car#1",
+      "productType": "vehicle",
+      "productColor": "red",
+      "productDes": "sexy car",
+      "productImage": "https://media.istockphoto.com/id/659415936/photo/lamborghini-huracan.jpg?s=2048x2048&w=is&k=20&c=4ENxdDOjp9h9xkc99qEX9Pbvxy8mUxJGh8IWK8LIBaY=",
+      "id": 11
+    },
+    {
+      "productName": "Iphone 7 plus",
+      "productPrice": "35000",
+      "productId": "GHTY",
+      "productType": "Mobile",
+      "productColor": "Black",
+      "productDes": "Nice smartphone",
+      "productImage": "https://static.toiimg.com/thumb/resizemode-4,msid-54243242,imgsize-200,width-1200/54243242.jpg",
+      "id": 12
+    }
+  ],
+  "users": [
+    {
+      "name": "raj",
+      "email": "raj@test.com",
+      "password": "abc123",
+      "id": 1
+    },
+    {
+      "name": "rahul",
+      "email": "rahul@test.com",
+      "password": "abc123",
+      "id": 2
+    },
+    {
+      "name": "vikash",
+      "email": "vikas@test.com",
+      "password": "abc123",
+      "id": 3
+    },
+    {
+      "name": "mousam",
+      "email": "mousam@test.com",
+      "password": "abc@123",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 5
+    }
+  ]
+}
