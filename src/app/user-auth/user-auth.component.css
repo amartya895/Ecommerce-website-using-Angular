@@ -1,0 +1,18 @@
+.user-auth{
+    text-align: center;
+    color: blueviolet;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    
+}
+.auth-toggle-link{
+    color: blueviolet;
+    font-size: 14px;
+    text-align: center;
+    cursor: pointer;
+    transition: 1s;
+}
+.auth-toggle-link:hover{
+   color: red;
+   font-size: 16px;
+}

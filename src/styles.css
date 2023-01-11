@@ -1,0 +1,76 @@
+body{
+    font-family: sans-serif;
+}
+.container{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.common-form{
+    text-align: center;
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    width: 300px;
+}
+
+.form-input{
+    height: 35px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    border: 1px solid blueviolet;
+    color: blueviolet;
+    transition: 1s;
+}
+
+.form-btn{
+    height: 35px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    border: 1px solid blueviolet;
+    cursor: pointer;
+    color: white;
+    font-size: 20px;
+    background: blueviolet;
+   
+    transition: 1s;
+    border-radius: 5px;
+}
+.form-btn:hover{
+    background: red;
+    transform: scale(1.1);
+    
+}
+.form-btn:disabled{
+    cursor: not-allowed;
+    transform: none;
+    background: rgba(164, 112, 212, 0.836);
+}
+.form-input:hover{
+
+    transform: scale(1.1);
+}
+.error{
+    animation: blinker 1s linear 5;
+    color: red;
+}
+@keyframes blinker {
+    50% {
+      opacity: 0;
+    }
+  }
+
+  .carousel-caption{
+    background: #26212191;
+    border-radius: 5px
+  }
+  .carousel-control-next-icon, .carousel-control-prev-icon{
+    background-color: rgba(0, 0, 0, 0.411);
+    border-radius: 5px;
+    
+  }
+  .validation-error{
+    color: red;
+    margin-top: -20px;
+    font-size: 14px;
+   text-align: left;
+  }

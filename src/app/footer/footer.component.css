@@ -1,0 +1,26 @@
+.footer{
+   margin-top: 80px;
+   margin-bottom: 80px;
+   display: inline;
+   position: relative;
+   color: blueviolet;
+  
+   
+}
+.boxes{
+    justify-content: space-around;
+}
+
+a{
+    text-decoration: none;
+    display: block;
+    color: blueviolet;
+}
+.suggestion{
+    text-align: center;
+}
+.form-btn{
+    display: inline-block;
+    float: right;
+}
+

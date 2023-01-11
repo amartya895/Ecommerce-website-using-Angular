@@ -1,0 +1,31 @@
+table{
+    color: blueviolet;
+    text-align: left;
+    border: 1px solid blueviolet;
+    border-collapse: collapse;
+    
+}
+table td,table th{
+    border: 1px solid blueviolet;
+    padding: 10px;
+    min-height: 160px;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.delete{
+    margin-left: 10px;
+}
+
+.delete:hover{
+    color: red;
+    cursor: pointer;
+   
+}
+.adjust-update-link{
+
+    margin-left: 10px;
+
+    margin-right: 5px;
+}
